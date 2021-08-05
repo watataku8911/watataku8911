@@ -34,7 +34,12 @@
 
 <hr>
 
+<h3 align="left">Blog:</h3>
 
+- Qiita → [https://qiita.com/watataku8911](https://qiita.com/watataku8911)
+- Zenn → [https://zenn.dev/watataku](https://zenn.dev/watataku)
+
+<hr>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
