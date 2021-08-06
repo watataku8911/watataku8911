@@ -3,8 +3,9 @@
 
 > Thank you for watching my github.
 
-> Front End Web Developer.
-
+- Front End Web Developer.
+- Japan.
+- Likes WEB ／ Cafe
 - [https://watataku-portfolio.web.app](https://watataku-portfolio.web.app)
 
 <hr>
