@@ -5,7 +5,7 @@
 
 - Front End Web Developer.
 - Japan.
-- WEB🖥 ／ Cafe☕️
+- WEB🖥 ／ C☕️
 - [https://watataku-portfolio.web.app](https://watataku-portfolio.web.app)
 
 <hr>
