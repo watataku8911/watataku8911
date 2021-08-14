@@ -1,12 +1,12 @@
 
-<h1 align="left">Watataku(watataku8911)</h1>
+<h2 align="left">Hi,there🐰</h1>
 
 > Thank you for watching my github.
 
-- Front End Web Developer.
-- Japan.
+- My name is [Watataku](https://watataku-portfolio.web.app)
+- Front End Web Developer. 
+- Japan/Osaka.
 - WEB🖥 ／ Coffee☕️
-- [https://watataku-portfolio.web.app](https://watataku-portfolio.web.app)
 
 <hr>
 
