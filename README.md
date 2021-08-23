@@ -3,7 +3,7 @@
 
 > Thank you for watching my github.
 
-- My name is [Watataku](https://watataku-portfolio.web.app)
+- My name is [Watataku](https://watataku-portfolio.web.app){:target="_blank"}
 - Front End Web Developer. 
 - Japan/Osaka.
 - WEB🖥 ／ Coffee☕️
@@ -37,8 +37,8 @@
 
 <h3 align="left">Blog:</h3>
 
-- Qiita → [https://qiita.com/watataku8911](https://qiita.com/watataku8911)
-- Zenn → [https://zenn.dev/watataku](https://zenn.dev/watataku)
+- Qiita → [https://qiita.com/watataku8911](https://qiita.com/watataku8911){:target="_blank"}
+- Zenn → [https://zenn.dev/watataku](https://zenn.dev/watataku){:target="_blank"}
 
 <hr>
 
