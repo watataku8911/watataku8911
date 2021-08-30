@@ -1,9 +1,8 @@
 
-<h2 align="left">Hi,there🐰</h1>
+<h2 align="left">Hi,there🐰</h2>
 
 > Thank you for watching my github.
 
-- My name is <a href="https://watataku-portfolio.web.app/" target="_blank">Watataku.</a>
 - Front End Web Developer. 
 - Japan/Osaka.
 - WEB🖥 ／ Coffee☕️
@@ -37,8 +36,8 @@
 
 <h3 align="left">Blog:</h3>
 
-- Qiita → <a href="https://qiita.com/watataku8911" target="_blank">https://qiita.com/watataku8911</a>
-- Zenn → <a href="https://zenn.dev/watataku" target="_blank">https://zenn.dev/watataku</a>
+- Qiita → [https://qiita.com/watataku8911](https://qiita.com/watataku8911)
+- Zenn → [https://zenn.dev/watataku](https://zenn.dev/watataku)
 
 <hr>
 
