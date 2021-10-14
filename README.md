@@ -3,9 +3,9 @@
 
 > Thank you for watching my github.
 
-- Front End Web Developer. 
-- Japan/Osaka.
-- WEB🖥 ／ Coffee☕️
+- Front End Enginner 
+- Osaka, Japan
+- I Like Starbucks Coffee.
 
 <hr>
 
