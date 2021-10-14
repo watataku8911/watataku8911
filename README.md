@@ -37,11 +37,6 @@
 <h3 align="left">Blog:</h3>
 
 - Qiita → [https://qiita.com/watataku8911](https://qiita.com/watataku8911)
-
-<p align="center">
-  <a href="http://qiita.com/watataku8911"><img src="https://qiita-badge.apiapi.app/s/watataku8911/contributions.svg" height="17px;" /></a>
-<p>
-  
 - Zenn → [https://zenn.dev/watataku](https://zenn.dev/watataku)
 
 <hr>
