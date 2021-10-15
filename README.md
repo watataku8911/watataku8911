@@ -5,7 +5,7 @@
 
 - Front End Enginner 
 - Osaka, Japan
-- I Like Starbucks Coffee.
+- I like Starbucks Coffee.
 
 <hr>
 
