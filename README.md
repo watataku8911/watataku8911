@@ -5,7 +5,7 @@
 
 - Front End Enginner 
 - Osaka, Japan
-- I like Starbucks Coffee.
+- I like Starbucks Coffee and Baseball.
 
 <hr>
 
@@ -43,9 +43,9 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="170" src="https://github-readme-stats.vercel.app/api?username=watataku8911&count_private=true&show_icons=true&theme=dracula" />
+  <img align="left" height="170" width="400" src="https://github-readme-stats.vercel.app/api?username=watataku8911&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=watataku8911&layout=compact&theme=dracula" />
+  <img align="right" height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=watataku8911&layout=compact&theme=dracula" />
                                                                                                                                                </a>
                                                                                                                                         
