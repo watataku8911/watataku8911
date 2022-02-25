@@ -34,13 +34,19 @@
 
 <hr>
 
+<h3 align="left">Portfolio:</h3>
+
+- [https://watataku-portfolio.web.app](https://watataku-portfolio.web.app)
+
+<hr>
+
 <h3 align="left">Blog:</h3>
 
 - Qiita → [https://qiita.com/watataku8911](https://qiita.com/watataku8911)
 - Zenn → [https://zenn.dev/watataku](https://zenn.dev/watataku)
+- Watataku's ブログ → [https://watataku-blog.vercel.app](https://watataku-blog.vercel.app)
 
 <hr>
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" height="170" width="400" src="https://github-readme-stats.vercel.app/api?username=watataku8911&count_private=true&show_icons=true&theme=dracula" />
